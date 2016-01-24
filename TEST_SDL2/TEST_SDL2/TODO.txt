@@ -1,0 +1,30 @@
+
+-> create a menu class to controll the menu objects
+
+!-> make the buttons controlable by keys
+	-> current stopped, i don't no haow to select a item if the selected one is non Focusbale
+		-> i think i have to use two lists on for all gui items and one for the focusable items only
+
+-> create a "enviroment class" to control the map and the objects in it
+
+-> change the key system for the player
+
+-> make the enemies shot back
+
+OK-> make the gui objects enable/disable
+
+OK-> create a scroll bar gui object
+-> create a gui container to store gui items
+	-> and this containers can be scrollable if the content is larger as the size of the container
+	
+OK-> create a progressbar gui object
+	-> make a new fill orientation for the Progressbar to fill to the center
+
+OK-> create a radio button gui object
+-> create a gui group box to manage gui items that have to work togehter
+	-> for example to make buttons that change in size when mouse over and correct the positions of the other ones
+	-> or for radio buttons where only on can be active
+
+-> create a stack panel container (for vertikal and horizontal)
+
+-> create a grid container and make it configureable with rows and columns

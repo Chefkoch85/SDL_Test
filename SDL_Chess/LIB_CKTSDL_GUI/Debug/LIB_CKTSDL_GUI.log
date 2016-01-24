@@ -1,0 +1,37 @@
+﻿Der Buildvorgang wurde am 23.12.2015 00:42:09 gestartet.
+     1>Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL_GUI\LIB_CKTSDL_GUI.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\include" /IC:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL\Engine\Include /I"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\include" /I"F:\PROGRAMM\VS 2015\SDL_Chess\LIB_CKTSDL\Engine\Include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIB_CKTSDL_GUI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Gui\Seperator.cpp
+         Seperator.cpp
+       Link:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL_GUI.dll" /INCREMENTAL /NOLOGO /LIBPATH:C:\Prog\PROGRAM\SDL\SDL_Chess\Debug /LIBPATH:"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\lib\x86" /LIBPATH:"F:\PROGRAMM\VS 2015\SDL_Chess\Debug" /LIBPATH:"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib LIB_CKTSDL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL_GUI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL_GUI.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\Btn.obj
+         Debug\BtnEventArgs.obj
+         Debug\FocusableObj.obj
+         Debug\GroupBoxBtn.obj
+         Debug\GroupBoxRBtn.obj
+         Debug\GUIBase.obj
+         Debug\GuiContainer.obj
+         Debug\GuiEventArgs.obj
+         Debug\GuiScrollableContainer.obj
+         Debug\Label.obj
+         Debug\Menubar.obj
+         Debug\MenuItem.obj
+         Debug\Panel.obj
+         Debug\Progressbar.obj
+         Debug\ProgressbarH.obj
+         Debug\ProgressbarV.obj
+         Debug\RadioBtn.obj
+         Debug\Scrollbar.obj
+         Debug\ScrollbarHor.obj
+         Debug\ScrollbarVer.obj
+         Debug\Seperator.obj
+         Debug\SimpleScrollbarVer.obj
+         Debug\ToggleBtn.obj
+         Debug\LIB_CKTSDL_GUI.obj
+         LIB_CKTSDL_GUI.vcxproj -> C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL_GUI.dll
+     1>Die Erstellung von Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL_GUI\LIB_CKTSDL_GUI.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:01.23

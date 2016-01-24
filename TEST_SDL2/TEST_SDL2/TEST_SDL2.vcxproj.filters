@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Engine">
+      <UniqueIdentifier>{ca6a2b04-6396-4d96-9978-508cf63d92dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game">
+      <UniqueIdentifier>{ee26cdae-1a88-4dbc-b0cb-13dee579479d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GFX">
+      <UniqueIdentifier>{cfe775b5-b7d3-439b-946a-3aae1774d9a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Collision">
+      <UniqueIdentifier>{f6d637f9-7a12-4275-b885-83a487e075f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine">
+      <UniqueIdentifier>{e7bc0bec-b3b7-4641-9312-e0e368736fbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game">
+      <UniqueIdentifier>{d14a1d72-6aed-4eed-ab38-5ee8e004fe79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GFX">
+      <UniqueIdentifier>{7429d256-77ef-4c4f-bc5b-60bf74d17ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\Collision">
+      <UniqueIdentifier>{bf6a62a2-b50a-465e-86ce-7b04b37d479e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GUI">
+      <UniqueIdentifier>{12bcf019-40f7-4b26-b1f8-46ca9c2d9fc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GUI">
+      <UniqueIdentifier>{ba1e5ff7-8bd6-4695-8d99-9318a383a796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\FILE_IN/OUT">
+      <UniqueIdentifier>{7a899d63-b3ce-43ef-8010-ae3d21e71327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\FILE_IN/OUT">
+      <UniqueIdentifier>{e46f1e05-39e1-484f-97ff-62fff2c4d128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GUI\EventArgs">
+      <UniqueIdentifier>{7a279f8b-afb1-47e0-8885-afdefbcc0dc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GUI\EventArgs">
+      <UniqueIdentifier>{6eed8633-a37a-42d4-a802-91d0b5a74b91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GUI\Container">
+      <UniqueIdentifier>{a205a013-a320-4246-8008-0a66fe6efeb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GUI\GUI Items">
+      <UniqueIdentifier>{7eff6e1b-e980-4af4-aa76-e3e0bb32e1ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GUI\Container">
+      <UniqueIdentifier>{6119bc6d-3363-4bf5-bb2e-3dad2bf3d322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GUI\GUI Items">
+      <UniqueIdentifier>{2dec2363-1cbc-4a2e-8256-3f6218d9bc3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\GUI\GUI Items\Base">
+      <UniqueIdentifier>{f85c1d1f-1450-4d75-9048-3c58ea253922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\GUI\GUI Items\Base">
+      <UniqueIdentifier>{ef26ae16-e7a3-441d-a85d-14c930e69bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Timer">
+      <UniqueIdentifier>{2ea6191d-6c39-4fd9-8437-0411905c57b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine\Timer">
+      <UniqueIdentifier>{815a406d-9d9f-43c3-ab96-5e72caeef48e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Paused Classes">
+      <UniqueIdentifier>{e6269ac3-74a9-488a-9f00-f34121af0a0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Paused Classes">
+      <UniqueIdentifier>{666ad57d-2b10-49c1-b20a-47fa570cfd8c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Background.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Quelldateien\Engine\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionCircle.cpp">
+      <Filter>Quelldateien\Engine\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionRect.cpp">
+      <Filter>Quelldateien\Engine\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Shoot.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Quelldateien\Engine\GFX</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Quelldateien\Engine\GFX</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Quelldateien\Engine\GFX</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveableObject.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectBase.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIBase.cpp">
+      <Filter>Quelldateien\Engine\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="FocusableObj.cpp">
+      <Filter>Quelldateien\Engine\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="IniFileIO.cpp">
+      <Filter>Quelldateien\Engine\FILE_IN/OUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Cleanup.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Version.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiEventArgs.cpp">
+      <Filter>Quelldateien\Engine\GUI\EventArgs</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnEventArgs.cpp">
+      <Filter>Quelldateien\Engine\GUI\EventArgs</Filter>
+    </ClCompile>
+    <ClCompile Include="Btn.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Panel.cpp">
+      <Filter>Quelldateien\Engine\GUI\Container</Filter>
+    </ClCompile>
+    <ClCompile Include="ToggleBtn.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollbarVer.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollbarHor.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioBtn.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressbarH.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressbarV.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Progressbar.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Scrollbar.cpp">
+      <Filter>Quelldateien\Engine\GUI\GUI Items\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiContainer.cpp">
+      <Filter>Quelldateien\Engine\GUI\Container</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiScrollableContainer.cpp">
+      <Filter>Quelldateien\Engine\GUI\Container</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerOn.cpp">
+      <Filter>Quelldateien\Engine\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Quelldateien\Engine\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="GfxObject.cpp">
+      <Filter>Quelldateien\Engine\GFX</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Quelldateien\Engine\GFX</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleScrollbarVer.cpp">
+      <Filter>Quelldateien\Paused Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupBoxRBtn.cpp">
+      <Filter>Quelldateien\Engine\GUI\Container</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupBoxBtn.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Background.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Cleanup.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveableObject.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectBase.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Shoot.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Headerdateien\Engine\GFX</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Headerdateien\Engine\GFX</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Headerdateien\Engine\GFX</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Headerdateien\Engine\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionCircle.h">
+      <Filter>Headerdateien\Engine\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionRect.h">
+      <Filter>Headerdateien\Engine\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIBase.h">
+      <Filter>Headerdateien\Engine\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="FocusableObj.h">
+      <Filter>Headerdateien\Engine\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="IniFileIO.h">
+      <Filter>Headerdateien\Engine\FILE_IN/OUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiEventArgs.h">
+      <Filter>Headerdateien\Engine\GUI\EventArgs</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnEventArgs.h">
+      <Filter>Headerdateien\Engine\GUI\EventArgs</Filter>
+    </ClInclude>
+    <ClInclude Include="Panel.h">
+      <Filter>Headerdateien\Engine\GUI\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Btn.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ToggleBtn.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollbarHor.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollbarVer.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioBtn.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Scrollbar.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Progressbar.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressbarV.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressbarH.h">
+      <Filter>Headerdateien\Engine\GUI\GUI Items</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiContainer.h">
+      <Filter>Headerdateien\Engine\GUI\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiScrollableContainer.h">
+      <Filter>Headerdateien\Engine\GUI\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerOn.h">
+      <Filter>Headerdateien\Engine\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Headerdateien\Engine\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="GfxObject.h">
+      <Filter>Headerdateien\Engine\GFX</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>Headerdateien\Engine\GFX</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleScrollbarVer.h">
+      <Filter>Headerdateien\Paused Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupBoxRBtn.h">
+      <Filter>Headerdateien\Engine\GUI\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupBoxBtn.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="TODO.txt" />
+  </ItemGroup>
+</Project>

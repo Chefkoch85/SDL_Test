@@ -1,0 +1,77 @@
+=====================================================================================
+                          LIZENZINFORMATIONEN - DEUTSCH
+             (English licensing information below the german version)
+=====================================================================================
+
+TorweltenMono ist eine Schriftart für das Torwelten Projekt: http://www.torwelten.com
+Die Schrift wurde gestaltet und erstellt von Eric Pöhlsen: http://www.eric-poehlsen.de
+
+BASISLIZENZ: 
+Die Grundlizenz für diese Schriftart ist CC-BY-NC in der Version 3.0
+  Urheberangabe(BY):
+    Für die Weitergabe der Schrift an sich: 
+      - Diese Datei in unveränderter Form 
+    In Spielhilfen, Handouts, etc.
+      - nicht notwendig 
+    In Printerzeugnissen [eine der folgenden Zeilen]:
+      - Eric Pöhlsen
+      - Eric Pöhlsen - http://www.eric-poehlsen.de
+      - http://www.eric-poehlsen.de
+      - Das Torwelten Projekt - http://www.torwelten.com
+      - http://www.torwelten.com
+    Auf Webseiten/Elektronischen Dokumenten [als Link eine der folgenden Zeilen > URL]
+      - Eric Pöhlsen > http://www.eric-poehlsen.de
+      - Das Torwelten Projekt > http://www.torwelten.com
+  NonCommercial(NC):
+    Wird das mit dieser Schriftart erstellte Werk über dem Selbstkostenpreis verkauft,
+    so wäre das eine kommerzielle Nutzung. Dies gilt analog für Webseiten, die über
+    Werbung mehr verdienen, als ihre Hostingkosten betragen. 
+
+FONTDATENBANKLIZENZ: 
+Die Schriftart darf kostenfrei zum Download angeboten werden, muss aber zusammen mit 
+dieser Datei, in unveränderter Form, verbreitet werden. 
+
+KOMMERZIELLE LIZENZ:
+Diese Schriftart darf für kommerzielle Torwelten-Produkte verwendet werden, sofern
+vorher ein entsprechender Lizenzvertrag mit dem Torwelten-Projekt geschlossen wurde.
+Eine zusätzliche Lizensierung dieser Schrift, besonders für die Covergestaltung ist
+dann nicht mehr notwendig. 
+Kommerzielle Lizenzen werden ausschließlich für Torwelten-Produkte erteilt. 
+
+
+=====================================================================================
+                         LICENSING INFORMATION - ENGLISH
+=====================================================================================
+
+TorweltenMono is a font for use with the Torwelten project: http://www.torwelten.com
+This font was designed and created by Eric Pöhlsen: http://www.eric-poehlsen.de
+
+BASIC LICENSE:
+This font is generally licensed CC-BY-NC in version 3.0
+  Attribution(BY):
+    If you distribute the font itself
+      - This file in unmodified form
+    For use in player handouts etc.    
+      - no attribution required
+    For printed works [one of the lines below]
+      - Eric Pöhlsen (or Poehlsen)
+      - Eric Pöhlsen (or Poehlsen) - http://www.eric-poehlsen.de
+      - http://www.eric-poehlsen.de
+      - Das Torwelten Projekt - http://www.torwelten.com
+      - http://www.torwelten.com
+    For webpages and electronic products [as link one of the following lines > URL]
+      - Eric Pöhlsen (or Poehlsen) > http://www.eric-poehlsen.de
+      - Das Torwelten Projekt > http://www.torwelten.com
+  NonCommercial(NC):
+    If you are selling the created product for profit or your webpage generates 
+    profits with advertisment that would be commercial use.  
+
+FONT DATABASES LICENSE: 
+This font may be distributed on font databases, download has to be free. The font must
+be distributed with this file in unmodified form. 
+
+COMMERCIAL LICENSE: 
+This font may be used for commercial 'Torwelten' publications, if you got a licensing
+agreement with the Torwelten project. An additional license for this font, especially
+for the purpose of cover design is not neccessary. 
+Commercial Licenses will only be granted for Torwelten products. 

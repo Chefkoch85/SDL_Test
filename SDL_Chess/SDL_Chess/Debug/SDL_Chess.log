@@ -1,0 +1,16 @@
+﻿Der Buildvorgang wurde am 23.12.2015 08:16:40 gestartet.
+     1>Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\SDL_Chess\SDL_Chess.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL_GUI\Gui\Include /IC:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL\Engine\Include /I"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\include" /I"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\include" /I"F:\PROGRAMM\VS 2015\SDL_Chess\LIB_CKTSDL\Engine\Include" /I"F:\PROGRAMM\VS 2015\SDL_Chess\LIB_CKTSDL_GUI\Gui\Include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+       Link:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\SDL_Chess.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Prog\PROGRAM\SDL\SDL_Chess\Debug /LIBPATH:"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\lib\x86" /LIBPATH:"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\lib\x86" /LIBPATH:"F:\PROGRAMM\VS 2015\SDL_Chess\Debug" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib LIB_CKTSDL.lib LIB_CKTSDL_GUI.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\SDL_Chess.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\SDL_Chess.lib" /MACHINE:X86 Debug\Board.obj
+         Debug\Figure.obj
+         Debug\Game.obj
+         Debug\main.obj
+         SDL_Chess.vcxproj -> C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\SDL_Chess.exe
+     1>Die Erstellung von Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\SDL_Chess\SDL_Chess.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:02.11

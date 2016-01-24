@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Engine">
+      <UniqueIdentifier>{f03eb9cb-8e91-48a5-baed-30e8f60c3241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Engine">
+      <UniqueIdentifier>{2b07c1bc-3f3f-4db6-9e45-3c2b05a6ecb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Button">
+      <UniqueIdentifier>{08540127-1fa8-4102-9085-976dbe6d9279}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Container">
+      <UniqueIdentifier>{432a5857-feab-479b-8c33-c43d2ecf5222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Bars">
+      <UniqueIdentifier>{93c4066f-427b-48e2-bfbf-f2a3b944b50a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Engine\Menu">
+      <UniqueIdentifier>{96129698-4f5e-4785-b7d2-3ed6d913203a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LIB_CKTSDL_GUI.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Btn.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\BtnEventArgs.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\FocusableObj.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GroupBoxBtn.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GroupBoxRBtn.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GUIBase.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GuiContainer.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GuiEventArgs.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\GuiScrollableContainer.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Label.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Menubar.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\MenuItem.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Panel.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Progressbar.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ProgressbarH.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ProgressbarV.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\RadioBtn.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Scrollbar.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ScrollbarHor.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ScrollbarVer.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\SimpleScrollbarVer.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\ToggleBtn.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Gui\Seperator.cpp">
+      <Filter>Quelldateien\Engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gui\FocusableObj.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GUIBase.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GuiEventArgs.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Label.h">
+      <Filter>Headerdateien\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Include\CKT_GUI.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LIB_CKTSDL_GUI_intern.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Btn.h">
+      <Filter>Headerdateien\Engine\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\BtnEventArgs.h">
+      <Filter>Headerdateien\Engine\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ToggleBtn.h">
+      <Filter>Headerdateien\Engine\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\RadioBtn.h">
+      <Filter>Headerdateien\Engine\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GroupBoxBtn.h">
+      <Filter>Headerdateien\Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GroupBoxRBtn.h">
+      <Filter>Headerdateien\Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GuiContainer.h">
+      <Filter>Headerdateien\Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\GuiScrollableContainer.h">
+      <Filter>Headerdateien\Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Panel.h">
+      <Filter>Headerdateien\Engine\Container</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Progressbar.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ProgressbarH.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ProgressbarV.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Scrollbar.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ScrollbarHor.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\ScrollbarVer.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\SimpleScrollbarVer.h">
+      <Filter>Headerdateien\Engine\Bars</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Menubar.h">
+      <Filter>Headerdateien\Engine\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\MenuItem.h">
+      <Filter>Headerdateien\Engine\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui\Seperator.h">
+      <Filter>Headerdateien\Engine\Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

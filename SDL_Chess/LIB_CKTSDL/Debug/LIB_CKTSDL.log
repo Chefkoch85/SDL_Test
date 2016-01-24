@@ -1,0 +1,43 @@
+﻿Der Buildvorgang wurde am 23.12.2015 00:18:45 gestartet.
+     1>Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL\LIB_CKTSDL.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\include" /I"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D LIB_CKTSDL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Engine\Background.cpp Engine\FontManager.cpp Engine\GfxObject.cpp Engine\Graphics.cpp Engine\TextureManager.cpp
+         Graphics.cpp
+         Code wird generiert...
+         Kompilieren...
+         TextureManager.cpp
+         GfxObject.cpp
+         FontManager.cpp
+         Background.cpp
+         Code wird generiert...
+       Link:
+         C:\Prog\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Prog\PROGRAM\SDL_20\SDL2-203_dev\lib\x86" /LIBPATH:"F:\Programmieren\Engine\SDL-2.0\SDL2-2.0.3_dev\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\Background.obj
+         Debug\Cleanup.obj
+         Debug\Clock.obj
+         Debug\Collision.obj
+         Debug\CollisionCircle.obj
+         Debug\CollisionRect.obj
+         Debug\Color.obj
+         Debug\Common.obj
+         Debug\Entity.obj
+         Debug\FontManager.obj
+         Debug\GfxObject.obj
+         Debug\Graphics.obj
+         Debug\IniFileIO.obj
+         Debug\MoveableObject.obj
+         Debug\ObjectBase.obj
+         Debug\Point2D.obj
+         Debug\TextureManager.obj
+         Debug\Timer.obj
+         Debug\TimerOn.obj
+         Debug\Util.obj
+         Debug\Version.obj
+         Debug\LIB_CKTSDL.obj
+            Bibliothek "C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.lib" und Objekt "C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.exp" werden erstellt.
+         LIB_CKTSDL.vcxproj -> C:\Prog\PROGRAM\SDL\SDL_Chess\Debug\LIB_CKTSDL.dll
+     1>Die Erstellung von Projekt "C:\Prog\PROGRAM\SDL\SDL_Chess\LIB_CKTSDL\LIB_CKTSDL.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:04.51
